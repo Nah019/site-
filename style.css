@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('fundo-de-lavanda');
+    background: url('fundo-de-lavanda-digital-aquarela_52683-120680.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,10 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('fundo-de-lavanda'), no-repeat cover;
+ HEAD
+        background: url('fundo-de-lavanda-digital-aquarela_52683-120680.jpg'), no-repeat cover;
+
+        background: url('fundo-de-lavanda-digital-aquarela_52683-120680.jpg'), no-repeat cover;
     }
 
     .cartao {
